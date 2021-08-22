@@ -10,9 +10,9 @@
  
                 <!-- bootstrap & fontawesome -->
                 <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css" />
-                <link rel="stylesheet" href="<?php echo base_url();?>assets/font-awesome/4.2.0/css/font-awesome.min.css" />
+                <link rel="stylesheet" href="<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" integrity="sha512-ZfKn7az0YmtPUojZnRXO4CUdt3pn+ogBAyGbqGplrCIR5B/tQwPGtF2q29t+zQj6mC/20w4sSl0cF5F3r0HKSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
                 <link rel="stylesheet" href="<?php echo base_url();?>assets/css/ace.min.css" class="theme-stylesheet" id="theme-style" />
-                <link rel="stylesheet" href="<?php echo base_url();?>assets/fonts/fonts.googleapis.com.css" />
+                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&lang=en" />
                 <!-- page specific plugin styles -->
 </head>
  
@@ -145,7 +145,7 @@
 			<div class="footer-inner">
 				<div class="footer-content">
 					<span class="bigger-120">
-									Copyright © phpflow.com. All rights reserved.
+									Copyright @phpflow.com. All rights reserved.
 					</span>
 				</div>
 			</div>
